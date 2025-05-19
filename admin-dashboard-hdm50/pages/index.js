@@ -1,8 +1,8 @@
 export default function Home() {
   return (
     <div>
-      <h1>¡Hola desde Autofinanciamiento Minis!</h1>
-      <p>Tu página ya está funcionando correctamente.</p>
+      <h1>¡Despliegue exitoso desde Vercel!</h1>
+      <p>Este es el inicio de tu proyecto 🚀</p>
     </div>
   );
 }
