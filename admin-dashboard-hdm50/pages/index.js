@@ -1,4 +1,8 @@
-import AdminDashboard from "../components/AdminDashboard";
 export default function Home() {
-  return <AdminDashboard />;
+  return (
+    <div>
+      <h1>¡Hola desde Autofinanciamiento Minis!</h1>
+      <p>Tu página ya está funcionando correctamente.</p>
+    </div>
+  );
 }
